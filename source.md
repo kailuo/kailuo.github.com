@@ -33,11 +33,11 @@ permalink: /source/
 
 + 37singals' Getting Real [中文版](http://cnborn.net/docs/getting_real/index.html)
 
-+ 《失控》 by [Kevin Kelly](http://www.kk.org) [英文原版](http://www.kk.org/outofcontrol/contents.php "")  [译言翻译版本](http://article.yeeyan.org/view/out_of_control/32089)
++ 《失控》 by [Kevin Kelly](http://www.kk.org) [英文原版](http://www.kk.org/outofcontrol/contents.php)  [译言翻译版本](http://article.yeeyan.org/view/out_of_control/32089)
 
 + [The Top Idea in Your Mind](http://www.paulgraham.com/top.html "The Top Idea in Your Mind")
 
-+ [The Surprising Science of Motivation](http://www.ted.com/talks/dan_pink_on_motivation.html "")  
++ [The Surprising Science of Motivation](http://www.ted.com/talks/dan_pink_on_motivation.html)  
 
 + [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/ "Learn Vim Progressively")
   
