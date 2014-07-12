@@ -53,7 +53,7 @@ Steve Jobs @ Dec 15, 1982
 
 ![images](http://lkmake.com/resource/imgs/jobs-2011-12-5.jpg "Steve Jobs @ 2011 WWDC")
 
-Thank You Steve, by [Aaron Mahnke](http://www.aaronmahnke.com/post/11082113453 "Aaron Mahnke"), [Original Link](http://www.aaronmahnke.com/post/11082113453)
+Thank You Steve, by [Aaron Mahnke](http://www.aaronmahnke.com/post/11082113453 "Aaron Mahnke")
 
 > This is my favorite photo of Steve Jobs. Leaning forward to connect with his wife after his keynote presentation at the 2011 WWDC. You can almost feel the relief and accomplishment radiating from him.  
 
