@@ -17,7 +17,7 @@ category: topic
 
 2008 年起，我开始制作 iOS apps，而每一个开始的点都是自己好奇的正在接触的东西，色彩，法律，书法，重力感应游戏。我知道我很好奇，同时也很享受这种专心自己的好奇心并且可以生活的很舒服的状态。这样的感觉很奇特，并且持续着细微的变化。现在是 2012 年，我依然是开发者，依然很享受这样的状态。不同的是，我有更慢更细致的察觉，各种暂时还没有被大脑认识到但是早就被潜意识觉察的那些 dots 其实一直在暗暗的起着作用。
 
-2012 年 1 月 19 日，Apple Education Event 的直播让我感触很深刻。虽然在一间很小的博物馆里面举行，与会者当然也不可能像 WWDC 那样规模，但是一样谈起教育，一切似乎严肃起来，[Phill](http://www.apple.com/pr/bios/philip-w-schiller.html "Phill") 用到一个词，"deep".
+2012 年 1 月 19 日，Apple Education Event 的直播让我感触很深刻。虽然在一间很小的博物馆里面举行，与会者当然也不可能像 WWDC 那样规模，但是一样谈起教育，一切似乎严肃起来，[Phill](http://www.apple.com/pr/bios/philip-w-schiller.html "Phill") 用到一个词，deep
 
 + iBooks 2
 + iBooks Author
@@ -25,7 +25,8 @@ category: topic
 
 相信这三个词会在现在开始的未来产生非凡的意义。因为学习和传播知识，各种知识，都是一件伟大而愉快的事情，从文明产生的那一刻起就是这样吧。
 
-这是 Apple 对 [iBooks Author](http://www.apple.com/ibooks-author/ "iBooks Author") 的一段介绍:  
+这是 Apple 对 [iBooks Author](http://www.apple.com/ibooks-author/ "iBooks Author") 的一段介绍:
+
 > Now anyone can create stunning iBooks textbooks, cookbooks, history books, picture books, and more for iPad. All you need is an idea and a Mac. Start with one of the Apple-designed templates that feature a wide variety of page layouts. Add your own text and images with drag-and-drop ease. Use Multi-Touch widgets to include interactive photo galleries, movies, Keynote presentations, 3D objects, and more. Preview your book on your iPad at any time. Then submit your finished work to the iBookstore with a few simple stpes. And before you know it, you're a published author.
 
 我知道自己对这段文字很激动，而且我相信这远超过，如果，刚刚发布的是一台 Retina display iPad 的心情。
