@@ -25,4 +25,4 @@ title: iOS App 外包过程
 8. All Done. 
 
 
-欢迎你来 [这里](http://v2ex.appspot.com/t/524 "V2EX") 发表看法 :)
+欢迎你来 [这里](http://v2ex.com/go/idev "V2EX") 发表看法 :)
