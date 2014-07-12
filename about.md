@@ -10,4 +10,4 @@ I love building applications with code and pixels for iPhone, iPad, Mac and Web;
 
 Ping me at twitter [@kailuo](http://twitter.com/kailuo) :)
 
-原则上，感想吐槽类会使用中文，未来的技术讨论会坚持英文。
+原则上，感想吐槽类使用中文，技术讨论会坚持英文。
