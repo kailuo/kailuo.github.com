@@ -5,7 +5,7 @@ category: topic
 
 ---
 
-![writing night](http://lkmake.com/resource/imgs/writing-night-2012-1-20.jpg "writing night")  
+![images](http://lkmake.com/resource/imgs/writing-night-2012-1-20.jpg "Writing Night")  
 
 说起教育，我们是不幸的么？  
   

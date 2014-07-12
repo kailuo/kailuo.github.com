@@ -44,14 +44,14 @@ permalink: /source/
   
 ## Steve Jobs
 ---
-![Steve Jobs](http://lkmake.com/resource/imgs/stevejobs-2010-7-31.jpg "Steve Jobs @ Dec 15, 1982")  
+![images](http://lkmake.com/resource/imgs/stevejobs-2010-7-31.jpg "Steve Jobs @ Dec 15, 1982")  
 Steve Jobs @ Dec 15, 1982
 
 >This was a very typical time. I was single. All you needed was a cup of tea, a light, and your stereo, you know, and that’s what I had.  
 
 <br />
 
-![alt](http://lkmake.com/resource/imgs/jobs-2011-12-5.jpg "Steve Jobs @ 2011 WWDC")
+![images](http://lkmake.com/resource/imgs/jobs-2011-12-5.jpg "Steve Jobs @ 2011 WWDC")
 
 Thank You Steve, by [Aaron Mahnke](http://www.aaronmahnke.com/post/11082113453 "Aaron Mahnke"), [Original Link](http://www.aaronmahnke.com/post/11082113453)
 

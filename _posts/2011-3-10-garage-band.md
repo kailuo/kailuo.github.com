@@ -12,6 +12,6 @@ title: GarageBand for iPad
 
 OK，用了30分钟，GarageBand 相当 Smart 的输出了一首曲子，7个轨道：
 
-![gra.png](http://lkmake.com/resource/imgs/gra-2011-3-10.png "Gra - made with GarageBand for iPad")
+![images](http://lkmake.com/resource/imgs/gra-2011-3-10.png "Gra - made with GarageBand for iPad")
 
 [›› gra.m4a](http://lkmake.com/resource/audio/gra-2011-3-10.m4a "Gra.m4a")

@@ -6,7 +6,7 @@ title: The Final Cut
 
 ---
 
-![Final](http://lkmake.com/resource/imgs/final-cut-x-2011-6-21.png "Final Cut X")
+![images](http://lkmake.com/resource/imgs/final-cut-x-2011-6-21.png "Final Cut X")
 
 终于，这一天来到了。作为童年的梦想，Final Cut 系列一直是我最最喜欢的。曾经这也是很大一部分去工作的理由。
 
