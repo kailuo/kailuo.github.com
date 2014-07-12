@@ -6,10 +6,6 @@ permalink: /about/
 
 ![images](http://i.v2ex.co/ob3vvmPQ.jpeg)
 
-My name is Kai LUO, indie developer of [LKMAKE](http://lkmake.com). This is my blog for random thoughts and topics.
+My name is Kai LUO, indie developer of [LKMAKE](http://lkmake.com). This is my blog for random thoughts and topics. For contact, just ping me at [Twitter](http://twitter.com/kailuo) :)
 
-I love building applications with code and pixels for iPhone, iPad, Mac and Web; I believe in beautiful and useful things with simplicity; I enjoy biketrials in parks and rocks with friends.
-
-Ping me at twitter [@kailuo](http://twitter.com/kailuo) :)
-
-原则上，感想吐槽类使用中文，技术讨论会坚持英文。
+> 原则上，感想吐槽类使用中文，技术讨论会坚持英文。
