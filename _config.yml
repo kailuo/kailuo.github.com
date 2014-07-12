@@ -1,0 +1,11 @@
+# Site settings
+title: Kai's Topic
+email: kai@lkmake.com
+description: "When mountain speaks, wise men listen."
+baseurl: ""
+url: "http://kai.lkmake.com"
+twitter_username: kailuo
+
+# Build settings
+markdown: kramdown
+permalink: pretty
