@@ -7,8 +7,6 @@ title: I Close My Eyes In Order To See
 ---
 
 
-**I CLOSE MY EYES IN ORDER TO SEE.**  
-
 Sometimes this is the only way, I have no other choice you know.
   
   
