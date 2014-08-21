@@ -7,7 +7,7 @@ category: topic
 ---
 
 
-![images](http://lkmake.com/resource/imgs/bassjump-soundbar.jpg "BassJump with Dell SoundBar on U2414h")
+![images](http://i.v2ex.co/8qmFh21x.jpeg "BassJump with Dell SoundBar on U2414h")
 
 I am a big fun of [BassJump](http://www.twelvesouth.com/product/bassjump-2-for-macbook) for a long time, it is truely the best 3rd party accessory I have ever bought for my MacBook Pro.
 
@@ -17,6 +17,6 @@ But, low-end speakers are always terrible with bass sound, although the new Soun
 
 I am running on OS X mavericks with their latest driver, and all you have to do is to choose the SoundBar instead of the built-in speakers in BassJump software settings, that's all. And for a better sound, you may need to use a custom sound settings: adjust the bass to 150Hz and louder the volume to about 90%, I just found that is amazing with the SoundBar.
 
-![images](http://lkmake.com/resource/imgs/bassjump-soundbar-settings.png "BassJump settings")
+![images](http://i.v2ex.co/8VmpmQ46.png "BassJump settings")
 
 p.s. The BassJump Sound System works great throughout the system, except one thing, Chrome browser has no sound.
