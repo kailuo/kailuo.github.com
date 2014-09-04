@@ -19,5 +19,3 @@ category: topic
 ![images](http://i.v2ex.co/7mFCwUm8.jpeg)
 ![images](http://i.v2ex.co/9OMx9i6C.jpeg)
 ![images](http://i.v2ex.co/M2Us1r1C.jpeg)
-
-虽然也可以用 1/8 的价格买到同样功能转换接口，但不同产品质感带来的体验一定不同，这点没错 :-)
