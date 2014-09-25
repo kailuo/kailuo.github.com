@@ -7,7 +7,7 @@ category: topic
 ---
 
 
-![images](http://i.v2ex.co/2R87vT79.jpeg)
+![images](http://i.v2ex.co/5KoivcW6.jpeg)
 
 升级过程继续，这是第三部分：桌面和显示器。
 
