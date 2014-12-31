@@ -1,6 +1,6 @@
 ---
 
-title: Happy New Year
+title: New Year
 layout: post
 category: topic
 
@@ -8,4 +8,4 @@ category: topic
 
 ![images](http://i.v2ex.co/84k573mV.png)
 
-Happy New Year from Pissa.
+from Pissa.
