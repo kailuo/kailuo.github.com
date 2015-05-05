@@ -6,4 +6,4 @@ permalink: /about/
 
 ![images](http://i.v2ex.co/ob3vvmPQ.jpeg)
 
-My name is Kai **LUO**, developer of [LKMAKE](http://lkmake.com).
+My name is Kai **LUO**, developer of [V2EX](https://www.v2ex.com).

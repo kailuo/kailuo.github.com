@@ -4,7 +4,7 @@ title: Source
 permalink: /source/
 ---
 
-##Important Words
+## Words
 ---
 
 #####The Power to Be Your Best
@@ -27,7 +27,9 @@ permalink: /source/
 
 > ♥ Do have a faith in what you're doing.  
 
-##Great Resources
+<br />
+
+## Resources
 ---
 + 来自 [Olivia](http://o.olivida.com) 的 Rework 精彩翻译 [Rework on V2EX minisite](http://www.v2ex.com/rework/index.html)  
 
@@ -41,7 +43,8 @@ permalink: /source/
 
 + [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/ "Learn Vim Progressively")
   
-  
+<br />  
+
 ## Steve Jobs
 ---
 ![images](http://lkmake.com/resource/imgs/stevejobs-2010-7-31.jpg "Steve Jobs @ Dec 15, 1982")  
