@@ -6,7 +6,7 @@ category: topic
 
 ---
 
-![images](http://lkmake.com/resource/imgs/mavericks-mac-pro.jpg "Mavericks + Mac Pro")
+![images](https://i.v2ex.co/l24T1EN1.jpeg "Mavericks + Mac Pro")
 
 作为主力工作机器，末代 Mac Pro 还是非常可靠的。不过一直希望能有一颗更多核心的 CPU，于是有了这个升级计划。
 
@@ -14,5 +14,4 @@ category: topic
 
 升级的时候还是很顺利的，其中要用到一颗加长的 3 号六角扳手，还可以选择含银度高一些的品牌硅脂（它会送一只拨片以及清洁剂）。其实升级之前我还查了不少关于硅脂涂抹的注意事项，但打开原装机散热器看到官方的涂抹风格后，我觉得自己想多了：先清理干净，然后拿拨片从 CPU 中心向四周将适量硅脂涂抹均匀即可。
 
-![images](http://lkmake.com/resource/imgs/upgrading-mac-pro-1.jpg "Upgrading Mac Pro")  
-
+![images](https://i.v2ex.co/N6ctFt4E.jpeg "Upgrading Mac Pro")
