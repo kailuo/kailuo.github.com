@@ -7,23 +7,23 @@ permalink: /source/
 ## Words
 ---
 
-#####The Power to Be Your Best
+The Power to Be Your Best
 
 > Think of all the power on this earth, the power of nature and human beings, the power of spirit, and speed, and determination, and then realize that of all these powers, none is more important then the power that resize  within the minds of our soul, the power to learn, to communicate, to imagine, to create, the power to be your best.
 
-#####Peter Gabriel
+Peter Gabriel
 
 > All of the buildings, all of those cars were once just a dream in somebody's head.  
 
-#####来自《苹果往事》的一段话
+来自《苹果往事》的一段话
 
 > 有时在某些特殊时段，会产生出一些影响后世数百年的重要发明，而这些是我们所无法预知的，而发明者和参与者本身往往也不是为了金钱，而是为了创造非凡业绩，获得个人成就感。  
 
-#####Alan Kay
+Alan Kay
 
 > The best way to predict the future is to invent it.  
 
-#####via [V2EX](http://www.v2ex.com "V2EX")
+via [V2EX](http://www.v2ex.com "V2EX")
 
 > ♥ Do have a faith in what you're doing.  
 
