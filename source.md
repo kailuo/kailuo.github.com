@@ -13,25 +13,25 @@ The Power to Be Your Best
 
 Peter Gabriel
 
-> All of the buildings, all of those cars were once just a dream in somebody's head.  
+> All of the buildings, all of those cars were once just a dream in somebody's head.
 
 来自《苹果往事》的一段话
 
-> 有时在某些特殊时段，会产生出一些影响后世数百年的重要发明，而这些是我们所无法预知的，而发明者和参与者本身往往也不是为了金钱，而是为了创造非凡业绩，获得个人成就感。  
+> 有时在某些特殊时段，会产生出一些影响后世数百年的重要发明，而这些是我们所无法预知的，而发明者和参与者本身往往也不是为了金钱，而是为了创造非凡业绩，获得个人成就感。
 
 Alan Kay
 
-> The best way to predict the future is to invent it.  
+> The best way to predict the future is to invent it.
 
-via [V2EX](http://www.v2ex.com "V2EX")
+via [V2EX](https://www.v2ex.com "V2EX")
 
-> ♥ Do have a faith in what you're doing.  
+> ♥ Do have a faith in what you're doing.
 
 <br />
 
 ## Resources
 ---
-+ 来自 [Olivia](http://o.olivida.com) 的 Rework 精彩翻译 [Rework on V2EX minisite](http://www.v2ex.com/rework/index.html)  
++ 来自 [Olivia](http://o.olivida.com) 的 Rework 精彩翻译 [Rework on V2EX minisite](http://www.v2ex.com/rework/index.html)
 
 + 37singals' Getting Real [中文版](http://cnborn.net/docs/getting_real/index.html)
 
@@ -39,25 +39,21 @@ via [V2EX](http://www.v2ex.com "V2EX")
 
 + [The Top Idea in Your Mind](http://www.paulgraham.com/top.html "The Top Idea in Your Mind")
 
-+ [The Surprising Science of Motivation](http://www.ted.com/talks/dan_pink_on_motivation.html)  
++ [The Surprising Science of Motivation](http://www.ted.com/talks/dan_pink_on_motivation.html)
 
 + [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/ "Learn Vim Progressively")
-  
-<br />  
-
-## Steve Jobs
----
-![images](http://lkmake.com/resource/imgs/stevejobs-2010-7-31.jpg "Steve Jobs @ Dec 15, 1982")  
-Steve Jobs @ Dec 15, 1982
-
->This was a very typical time. I was single. All you needed was a cup of tea, a light, and your stereo, you know, and that’s what I had.  
 
 <br />
 
-![images](http://lkmake.com/resource/imgs/jobs-2011-12-5.jpg "Steve Jobs @ 2011 WWDC")
+## Steve Jobs
+---
+![images](http://eyeofthefish.org/wp-content/uploads/2010/12/steve-jobs-at-home-1982.jpg "Steve Jobs @ Dec 15, 1982")
+Steve Jobs @ Dec 15, 1982&nbsp;&nbsp;<small>[>> photo source](http://eyeofthefish.org)</small>
 
-Thank You Steve, by [Aaron Mahnke](http://www.aaronmahnke.com/post/11082113453 "Aaron Mahnke")
+>This was a very typical time. I was single. All you needed was a cup of tea, a light, and your stereo, you know, and that’s what I had.
 
-> This is my favorite photo of Steve Jobs. Leaning forward to connect with his wife after his keynote presentation at the 2011 WWDC. You can almost feel the relief and accomplishment radiating from him.  
+<br />
 
-> When I see this photo, I see a man who bent every fiber of his will toward a goal so lofty, so seemingly unattainable that no one thought it was possible, and at the end of that race, with the task completed, he closed his eyes and rested.
+![images](http://edibleapple.com/wp-content/uploads/2011/06/steve-laurene-powell-jobs.jpg "Steve Jobs @ 2011 WWDC")
+
+Thank You Steve!&nbsp;&nbsp;<small>[>> photo source](http://edibleapple.com)</small>
