@@ -8,11 +8,11 @@ title: So Life Goes On
 
 那天我哭了，因为一个根本不认识的人。只是感觉真实到像是失去了一位远方的老朋友。
 
-Steve Jobs 走了，1955 - 2011，56年。
+Steve Jobs 走了，1955 - 2011，56 年。
 
 回过神来，我开始想。
 
-50天也好，50年也好，其实多数人并没有资格比较两者的份量。昏昏噩噩每一天，感觉有个方向，亮着光，在前面等着。不知道还要多久，不想知道，不愿知道，拼命努力不去知道。
+50 天也好，50 年也好，其实多数人并没有资格比较两者的份量。昏昏噩噩每一天，感觉有个方向，亮着光，在前面等着。不知道还要多久，不想知道，不愿知道，拼命努力不去知道。
 
 然而还有一些人，他们知道。
 
@@ -28,16 +28,16 @@ Steve Jobs 走了，1955 - 2011，56年。
 
 随着时代的疯狂，这已经不再是广告词。
 
-Here’s to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. 
+Here’s to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes.
 
-The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. 
+The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them.
 
-About the only thing you can’t do is ignore them. Because they change things. They invent. They imagine. They heal. They explore. They create. They inspire. They push the human race forward. 
+About the only thing you can’t do is ignore them. Because they change things. They invent. They imagine. They heal. They explore. They create. They inspire. They push the human race forward.
 
-Maybe they have to be crazy. 
+Maybe they have to be crazy.
 
-How else can you stare at an empty canvas and see a work of art? Or sit in silence and hear a song that’s never been written? Or gaze at a red planet and see a laboratory on wheels? 
+How else can you stare at an empty canvas and see a work of art? Or sit in silence and hear a song that’s never been written? Or gaze at a red planet and see a laboratory on wheels?
 
-We make tools for these kinds of people. 
+We make tools for these kinds of people.
 
 While some see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.
