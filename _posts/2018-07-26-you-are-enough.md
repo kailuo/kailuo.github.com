@@ -6,7 +6,7 @@ category: topic
 
 ---
 
-![image of the album, from google play music.](https://lh3.googleusercontent.com/0yBkbiIrz1Mc-VbdY-DE9ZRO-bvsKFUod6livlBJEhIghXKb-ymAgtogWFK4V7rdpDi3JRzQIw=s1024-c-e100-v1 =512x)
+![image of the album, from google play music.](https://lh3.googleusercontent.com/0yBkbiIrz1Mc-VbdY-DE9ZRO-bvsKFUod6livlBJEhIghXKb-ymAgtogWFK4V7rdpDi3JRzQIw=s1024-c-e100-v1){:height="512px"}
 
 Hello from Kai, Hello 2018!
 
